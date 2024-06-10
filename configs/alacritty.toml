@@ -1,4 +1,8 @@
 import = [ "~/.config/alacritty/theme.toml", "~/.config/alacritty/font.toml", "~/.local/share/omakub/defaults/alacritty.toml" ]
 
 [font]
-size = 7
+size = 12
+
+[window.dimensions]
+columns = 145
+lines = 42

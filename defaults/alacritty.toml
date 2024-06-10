@@ -10,6 +10,10 @@ padding.y = 14
 decorations = "none"
 opacity = 0.97
 
+[window.dimensions]
+columns = 145
+lines = 42
+
 [keyboard]
 bindings = [
 { key = "F11", action = "ToggleFullscreen" }
